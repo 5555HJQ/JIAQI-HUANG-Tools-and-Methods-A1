@@ -1,6 +1,6 @@
 ## Project: Exploring the Relationship between the Top 20 Film Themes at the Box Office from 2018 to 2022 on IMDbPro and Recent Social and Cultural Trends
 ### Context 
-The main topic of this project is to study the correlation between the themes of popular movies and social trends in the past 5 years.
+The main topic of this project is to study the correlation between the themes of popular movies and social trends in the past 5 years.1
 ### Research question
 1.Is the relationship between film themes and social and cultural trends interactive or unidirectional?
 
@@ -31,5 +31,4 @@ Possible variables involved in the project：
 ### Tools and methods 
 Statistical analysis and trend analysis are required. Process quantitative data extracted from web pages using Python programming language. Use visual tools to display the temporal distribution of movie themes and social events, as well as the relationships between various variables.
 ### Reference
-* 
 * 
